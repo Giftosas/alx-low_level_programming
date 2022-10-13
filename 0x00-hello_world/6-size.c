@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Prints the sizeof many var types
+ * main - Print the sizeof many var types
  * Return: Always 0
  */
 int main(void)
